@@ -1,0 +1,13 @@
+Les commandes principales de Git :
+
+Une fois le dépôt créé sur Github, il faut alors le cloner sur son espace local (son ordinateur).
+Pour cela, on accède au terminal Git Bash, nous allons dans le dossier où nous souhaitons créer le projet sur l'ordinateur.
+A l'aide de la commande cd on accède au dossier de réception.
+
+La commande git clone URL_github, nous permet alors de copier/cloner le dossier sur l'ordinateur.
+
+Ensuite pour envoyer un fichier sur github il faut procéder par 3 commandes.
+	La première git add nom_fichier : nous permet d'intégrer le fichier que l'on veut dans le dossier qui sera envoyé sur github
+	La deuxième git commit -m 'nom_sauvegarde' : nous permet de créer une sauvegarde à l'instant T, après modification
+	La troisème git push : celle-ci nous permet de renvoyer les sauvegarde sur github.
+
