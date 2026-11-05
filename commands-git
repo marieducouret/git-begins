@@ -11,3 +11,4 @@ Ensuite pour envoyer un fichier sur github il faut procéder par 3 commandes.
 	La deuxième git commit -m 'nom_sauvegarde' : nous permet de créer une sauvegarde à l'instant T, après modification
 	La troisème git push : celle-ci nous permet de renvoyer les sauvegarde sur github.
 
+Lorsque j'effectue une modification sur Github, pour que celle-ci fusionne avec mon projet en local (ordinateur), alors je dois effectuer la commande git pull.
