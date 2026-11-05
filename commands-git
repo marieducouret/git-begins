@@ -12,3 +12,10 @@ Ensuite pour envoyer un fichier sur github il faut procéder par 3 commandes.
 	La troisème git push : celle-ci nous permet de renvoyer les sauvegarde sur github.
 
 Lorsque j'effectue une modification sur Github, pour que celle-ci fusionne avec mon projet en local (ordinateur), alors je dois effectuer la commande git pull.
+
+
+A prèsent si je souhaite créer une nouvelle branche dans mon repository, la commande est la suivante : 
+	git branch nom_branche
+Et si je veux changer de branche, la commande est :
+	git switch nom_branche
+
